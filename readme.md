@@ -1,11 +1,7 @@
 # **A Data-Driven Exploration of the Substance Abuse Crisis**
 
 An analysis of Opioids and Stimulants in Canada
-This project was completed as a group project for the University of Calgary course DATA601 – Working with Data and Visualization. Our team members are:
-
-*	Ruby Nouri Kermani (30261323)
-
-*	Joao Ricardo Targino (30271085)
+This project was completed as a group project for the University of Calgary course DATA601 – Working with Data and Visualization.
 
 ## Introduction
 
